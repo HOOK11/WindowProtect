@@ -1,5 +1,5 @@
 # WindowProtect
-Etw hook 查找窗口相关内核函数 实现窗口保护 适用于Win10
+Infinity hook 查找窗口相关内核函数 实现窗口保护 适用于Win10
 # Infinity Hook 
 Infinity Hook 库 复制于 https://github.com/LYingSiMon/InfinityHookProEx 项目
 
